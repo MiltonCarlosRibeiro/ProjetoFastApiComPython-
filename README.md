@@ -4,11 +4,6 @@ Este é um **mini projeto de backend em Python** utilizando **FastAPI**, desenvo
 
 O projeto implementa um **CRUD completo** (Create, Read, Update e Delete) usando um banco de dados em memória, sendo ideal para quem está começando no desenvolvimento backend com Python.
 
- **Projeto desenvolvido ao vivo durante uma live no canal _Desvendando o Código_, com explicação passo a passo e foco didático.**
-
-# Link da live https://youtube.com/live/c4bCbxPQ23c
----
-
 ##  Tecnologias utilizadas
 
 - Python 3
